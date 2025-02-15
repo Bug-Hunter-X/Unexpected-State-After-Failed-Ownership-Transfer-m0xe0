@@ -1,0 +1,1 @@
+This repository contains a Solidity smart contract with a bug related to ownership transfer. The bug causes an unexpected state after a failed transfer. The solution provides a fix that updates the owner variable only after a successful transfer.
